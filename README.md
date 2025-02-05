@@ -1,1 +1,1 @@
-## Loan-Eligibility-Prediction analysis was created as part of Analytics Vidhya Hackathon.
+## Loan-Eligibility-Prediction analysis was done as part of Analytics Vidhya Hackathon.
