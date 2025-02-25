@@ -77,7 +77,6 @@ pip install -r requirements.txt
    cd Loan_Eligibility_Prediction
    ```
 3. Run the notebook in `notebooks/` to explore the dataset and train models.
-4. Execute scripts in `src/` for data preprocessing and model training.
 
 ## Acknowledgments
 - **Analytics Vidhya** for providing the dataset and hackathon platform.
