@@ -1,0 +1,26 @@
+Analytics Vidya: Loan Prediction Score
+
+# Loan_prediction
+* KNN: 0.6944444444444444
+* Logistic regression: 0.7777777777777778
+* Naive Bayes: 0.7569444444444444
+* Random Forest: 0.7638888888888888
+
+# Loan_prediction_no_outlier
+
+* KNN: 0.6875
+* Logistic regression: 0.7777777777777778
+* Naive Bayes: 0.7569444444444444
+* Random Forest: 0.7638888888888888
+
+# Loan_prediction_with_outliers_PCA
+* KNN: 0.7430555555555556
+* Logistic regression : 0.7777777777777778
+* Naive Bayes: 0.7569444444444444
+* Random Forest: 0.7638888888888888
+
+# Loan_prediction_no_outlier_PCA
+* KNN: 0.7083333333333334
+* Logistic regression : 0.7777777777777778
+* Naive Bayes: 0.7638888888888888
+* Random Forest: 0.7569444444444444
