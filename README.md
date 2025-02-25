@@ -41,15 +41,18 @@ The dataset consists of various attributes related to loan applicants, such as:
    - Identifying correlations
    
 3. **Model Selection & Training**
-   - Tried multiple machine learning models:
-     - Logistic Regression
-     - Decision Trees
-     - Random Forest
-     - XGBoost
-   - Evaluated models using accuracy and other relevant metrics
+   - Models used:
+     - **Logistic Regression**
+     - **Naïve Bayes (GaussianNB)**
+     - **K-Nearest Neighbors (KNN)**
+     - **Random Forest Classifier**
+   - Features were selected after preprocessing
+   - Models were trained on the dataset and evaluated
    
-4. **Hyperparameter Tuning**
-   - Optimized the best model using Grid Search / Randomized Search
+4. **Prediction & Output Formatting**
+   - Predictions were made on test data
+   - Output was converted from `1` and `0` to `Y` and `N`
+   - Results were saved as a `.csv` file
    
 5. **Model Evaluation & Submission**
    - Final model performance tested on validation data
